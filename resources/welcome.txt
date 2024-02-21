@@ -1,0 +1,17 @@
+
+ Welcome to Gendersploit! This “program” emulates the style of popular
+ hacking recipe builders such as Metasploit, which provides lists of 
+ vulnerabilities and possible exploits for a specified target. The 
+ purpose of this here is to draw attention to the similarities between
+ hacking practices, and the practices that trans people use to make
+ gender through various means. One very common way that trans people 
+ make gender is by taking hormone replacement therapy (HRT), which 
+ requires referrals, a lot of waiting, psychiatric assessments/
+ evaluations/diagnoses, and conforming to hegemonic and binary 
+ conceptions of transition. Because of this, the trans community 
+ spends a lot of time sharing experiences and methods for dealing with
+ the difficult medico-legal systems that they have to navigate. These
+ instructions seek to explain the process of making exploits in the
+ context of gender, transition, and hormone assessments to explain the
+ knowledge (and hack) sharing practices of trans people on the 
+ internet.
